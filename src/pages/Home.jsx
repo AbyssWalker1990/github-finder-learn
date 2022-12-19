@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       {/* SEARCH COMPONENT */}
-      <UsersResults />      
+      <UsersResults />
     </>
   )
 }
